@@ -20,12 +20,13 @@
       ![Accuracy Curve](./misc/model_accuracy_curve.png)
 
 * Model Performance Details :
-    * Confusion Matrix :
+    * Confusion Matrix (The row indices are the actual labels & the column names are the predicted labels) :
     
       ![Confusion Matrix](./misc/confusion_matrix_cnn.png)
 
     * Final Epoch (Epoch 10) Training Details :
-      loss : 1.5578e-04 | accuracy : 1.0000 | val_loss : 5.3446e-04 | val_accuracy : 0.9998
+    
+        loss : 1.5578e-04 | accuracy : 1.0000 | val_loss : 5.3446e-04 | val_accuracy : 0.9998
     * Training Set Accuracy Score : 100%
     * Test Set Accuracy Score : 99.98%
 #### Results :
